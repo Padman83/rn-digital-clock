@@ -1,7 +1,8 @@
 # About The Project
 
-## rn-digital-clock
+### rn-digital-clock
 
+![Rn-digital-clock@3x](https://user-images.githubusercontent.com/45048950/67507168-fbca3e80-f6c0-11e9-9065-0dd1eecd5ad6.png)
 
 ### Code Editor
 
