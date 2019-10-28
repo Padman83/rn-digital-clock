@@ -20,6 +20,7 @@
 * [expo.io] (https://expo.io)
 
 
-## Contact
+### Project Link
 
-Project Link: [https://github.com/Padman83/rn-digital-clock]
+* [https://github.com/Padman83/rn-digital-clock]
+* [https://snack.expo.io/@padman83/rn-digital-clock]
