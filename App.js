@@ -96,6 +96,6 @@ export default class App extends Component {
        color: '#2196f3',
        fontSize: 25,
        paddingBottom: 0,
-       marginLeft: 100,
+       marginLeft: 150,
      }
 });
