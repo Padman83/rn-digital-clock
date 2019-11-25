@@ -2,7 +2,7 @@
 
 ### rn-digital-clock
 
-![Rn-digital-clock@3x](https://user-images.githubusercontent.com/45048950/67507168-fbca3e80-f6c0-11e9-9065-0dd1eecd5ad6.png)
+![rn-digital-clock ui@3x](https://user-images.githubusercontent.com/45048950/69532427-c0b57680-0fb0-11ea-8530-13954bac7fa5.png)
 
 ### Code Editor
 
