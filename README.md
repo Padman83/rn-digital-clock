@@ -1,6 +1,6 @@
 # About The Project
 
-### rn-digital-clock
+### React Native-digital-clock
 
 ![rn-digital-clock ui@3x](https://user-images.githubusercontent.com/45048950/69532427-c0b57680-0fb0-11ea-8530-13954bac7fa5.png)
 
