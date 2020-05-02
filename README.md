@@ -1,5 +1,9 @@
 ![rn-digital-clock ui@3x](https://user-images.githubusercontent.com/45048950/69532427-c0b57680-0fb0-11ea-8530-13954bac7fa5.png)
 
+## 🧰 System Requirements
+
+* Mac , Linux or Windows.
+
 ### Code Editor
 
 * [Visual Studio Code] (https://code.visualstudio.com)
